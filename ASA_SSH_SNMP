@@ -1,0 +1,7 @@
+Crypto key generate rsa modules 2048
+Config
+ip domin-name sdntechforum.com
+username sdn password simpleneasy priv 15
+aaa authentication ssh console LOCAL
+ssh version 2
+ssh 0.0.0.0 0.0.0.0 inside 
